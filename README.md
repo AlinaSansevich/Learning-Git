@@ -1,2 +1,2 @@
 # Learning-Git
-I'm learning to use Git with Anaconda, Spyder and Python Crash Course.
+I'm learning to use Git + Anaconda, IPython + Spyder, YouTube, Python Crash Course...
